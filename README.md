@@ -10,6 +10,8 @@ This repository contains a portfolio project built using React.js and Vite. The 
 
 ![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Inderjit-Singh-Portfolio/blob/main/src/assets/images/screenshotweb4.PNG)
 
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Inderjit-Singh-Portfolio/blob/main/src/assets/images/screenshotweb5.PNG)
+
 
 ## Features
 
