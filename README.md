@@ -2,7 +2,13 @@
 
 This repository contains a portfolio project built using React.js and Vite. The portfolio showcases my skills, projects, and experience as a developer.
 
-![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Music-Player-app/blob/main/screenshotmusicplayerapp.PNG)
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Inderjit-Singh-Portfolio/blob/main/src/assets/images/screenshotweb1.PNG)
+
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Inderjit-Singh-Portfolio/blob/main/src/assets/images/screenshotweb2.PNG)
+
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Inderjit-Singh-Portfolio/blob/main/src/assets/images/screenshotweb3.PNG)
+
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Inderjit-Singh-Portfolio/blob/main/src/assets/images/screenshotweb4.PNG)
 
 
 ## Features
