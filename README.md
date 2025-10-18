@@ -1,6 +1,9 @@
-# Ibrahim Hiarea Portfolio
+# Inderjit Singh Portfolio
 
 This repository contains a portfolio project built using React.js and Vite. The portfolio showcases my skills, projects, and experience as a developer.
+
+![Screenshot 2024-10-02 123332](https://github.com/InderjitSingh377/Music-Player-app/blob/main/screenshotmusicplayerapp.PNG)
+
 
 ## Features
 
